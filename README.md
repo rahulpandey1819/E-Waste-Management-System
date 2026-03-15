@@ -216,3 +216,4 @@ Emission factors, weights, and tree equivalence are placeholder assumptions for 
 ## License
 MIT (adapt / extend freely – remove placeholder sustainability numbers before production use).
 # E-Waste-Management-System
+# E-Waste-Management-System
